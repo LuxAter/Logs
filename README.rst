@@ -1,0 +1,6 @@
+##########
+Log Reader
+##########
+
+This is a log reader that will read ``.log`` files created from an
+implementation of `Pessum<https://github.com/LuxAtrumStudio/Pessum>_`.
